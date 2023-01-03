@@ -1,2 +1,2 @@
 # Cerberus
-an application for training words.  ps hello frgf ::heart
+an application for training words.  ps hello frgf ♥️
